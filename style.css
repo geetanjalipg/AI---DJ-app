@@ -1,0 +1,50 @@
+body{
+background-color: black;
+color:floralwhite;
+font-family: 'Luckiest Guy', cursive;
+}
+
+#heading{
+    font-size: 30px;
+    color:silver;
+}
+#note{
+    font-size: 18px;
+    color: floralwhite;
+}
+#speed{
+    color: silver;
+    font-size: 18px;
+    margin: 15px;
+}
+.div_speed{
+    float:left;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+.div_volume{
+    float: right;
+}
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    font-size: 18px;
+    color:silver;
+    font-size: 18px;
+    margin: 15px;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    color: gray;
+}
+
+canvas{
+    margin-top: 100px;
+}
